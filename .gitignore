@@ -5,12 +5,13 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.mp4
 # Distribution / packaging
 .Python
 build/
 develop-eggs/
 dist/
+download_youtube/
 downloads/
 eggs/
 .eggs/
